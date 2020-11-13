@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095906308599",
+    "firebase_url": "https://gdg2020-mahmoud-bensfia.firebaseio.com",
+    "project_id": "gdg2020-mahmoud-bensfia",
+    "storage_bucket": "gdg2020-mahmoud-bensfia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095906308599:android:4fd3745450b4fa3fddbef2",
+        "android_client_info": {
+          "package_name": "com.bmitech.gdg_mahmoud_bensfia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095906308599-vu9bh6nidqtrem87e4rj8c80jhheeeoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYmEQ1P38UdkLgMhpzHD9sR7CYeaa3do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095906308599-vu9bh6nidqtrem87e4rj8c80jhheeeoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
